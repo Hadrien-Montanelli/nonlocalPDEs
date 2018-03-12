@@ -1,5 +1,5 @@
 # nonlocalPDEs
-MATLAB codes to solve nonlocal PDEs on the sphere 
+MATLAB codes to solve nonlocal PDEs on the sphere.
 
 Requires:
 1) mexjulia - https://github.com/twadleigh/mexjulia
