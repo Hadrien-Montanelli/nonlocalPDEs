@@ -1,5 +1,5 @@
 # nonlocalPDEs
-MATLAB codes to solve nonlocal PDEs on the sphere.
+MATLAB package to solve nonlocal PDEs on the sphere.
 
 Requires:
 1) Julia - https://julialang.org
