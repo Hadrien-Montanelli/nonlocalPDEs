@@ -1,4 +1,4 @@
-# nonlocalPDEs
+# nonloclab
 MATLAB package to solve nonlocal PDEs on the sphere.
 
 Requires:
