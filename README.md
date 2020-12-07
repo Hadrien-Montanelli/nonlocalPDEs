@@ -1,6 +1,6 @@
 # About
 MATLAB package to solve nonlocal PDEs on the sphere. The code is used in the following paper:
-- R.M. Slevinsky, H. Montanelli, Q. Du, A spectral method for nonlocal diffusion operators on the sphere, JCP (2018)
+- R.M. Slevinsky, H. Montanelli, Q. Du, A spectral method for nonlocal diffusion on the sphere, JCP (2018)
 
 # Installation
 
